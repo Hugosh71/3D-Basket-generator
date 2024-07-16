@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+#3dViewer {
+  width: 100%;
+  height: 500px;
+  margin-top: 20px;
+}
